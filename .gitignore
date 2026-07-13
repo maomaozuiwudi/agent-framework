@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.key
+config.yaml
+_patch_spec.md
+cc_task.md
+codex_task.md
+run_xiaoxiaonan_audit.py
+run_xiaoxiaonan_audit_v2.py
+run_xiaoxiaonan_audit_v3.py
+run_xiaoxiaonan_audit_v4.py
+.DS_Store
